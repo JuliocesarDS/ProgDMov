@@ -1,4 +1,4 @@
-<h1>ProgDMov</h1>
+<h1>Programação para dispositivos móveis</h1>
 
 <h2>Repositório voltado para o aprendizado de <a href="https://flutter.dev/">Flutter</a></h2>
 
